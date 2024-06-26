@@ -77,3 +77,4 @@ The commands used:
 - $ make images BOARDS=TE0802 PREBUILT=./prebuilt/bionic.aarch64.2.3.img
 - $ ls ./output/
 
+After the OS was successfully written to the SD Card through Balena Etcher, the TVM directory was downloaded from GitHub and the inference run successfully.
