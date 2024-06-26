@@ -33,7 +33,7 @@ The steps involved are dependent on the previous step and provide insights or an
   <img align="right" width="100%" src="https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/ff7f2bb6-3422-481e-b4f1-174b4e3b1d1d">
 </div>
 
-## Testing the Pynq 2.6v image (Optional Step):
+## Overview of the Pynq Linux:
 <div>
   <img align="left" width="30%" src="https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/e717fd5b-d380-4b36-9723-42907f0b2af7">
 </div>
