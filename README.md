@@ -4,6 +4,7 @@
 TVM works on the Pynq Driver. Since there is no Operating System for the TE0802 board, an Operating System has to be created from scratch with the source files from Trenz Electronics based on a Pynq Linux driver.
 
 ## Why TE0802 Zynq Ultrascale+ Board:
+![720x400-WHY-pic-2](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/3d4663f8-d005-4819-b758-57084f5d0e54)
 - 1Gb DDR memory for future projects
 - Multiple peripherals
 - Cost around 335€
@@ -27,7 +28,7 @@ In order to work with TVM (Tensor Virtual Machine), it was necessary to observe 
 - sshfs was used to enable an Internet connection
 - The TVM classification model was successfully run on the Target Pynq Z1board
 
-![Pynq Z1 Board](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/e80edbcf-17fd-4a0a-97e7-e83ab3bc56f6)
+![Pynq Z1 Board](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/e717fd5b-d380-4b36-9723-42907f0b2af7)
 
 ## Running Bare Metal Application
 In the next step, a design of TE0802 would generate the required bitstream and later on the .xsa file for creating the PetaLinux Image. 
