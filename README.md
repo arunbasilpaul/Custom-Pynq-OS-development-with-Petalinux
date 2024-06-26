@@ -27,7 +27,7 @@ TVM works on the Pynq Driver. Since there is no Operating System for the TE0802 
 - Balena Etcher (To format the SD crad and clone the new OS)
 
 ## Design Flow:
-The steps involved are dependent on the previous step and provide insights or?and source files for the next step:
+The steps involved are dependent on the previous step and provide insights or and source files for the next step:
 
 <div>
   <img align="right" width="100%" src="https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/ff7f2bb6-3422-481e-b4f1-174b4e3b1d1d">
