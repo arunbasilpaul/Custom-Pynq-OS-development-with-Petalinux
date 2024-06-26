@@ -19,3 +19,7 @@ TVM works on the Pynq Driver. Since there is no Operating System for the TE0802 
 ## Design Flow:
 The steps involved are dependent on the previous step and provide insights or?and source files for the next step:
   ![design_flow](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/ff7f2bb6-3422-481e-b4f1-174b4e3b1d1d)
+
+## Testing the Pynq 2.6v image (Optional Step):
+In order to work with TVM (Tensor Virtual Machine), it was necessary to observe and understand the working of an image that was already created. 
+![image](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/65abf5b0-ff56-44d1-97de-991678097a36)
