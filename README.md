@@ -54,8 +54,8 @@ Pynq was used as:
 - It supports Zynq Ultrascale+ TE0802 target board
 
 The commands used: 
-$ sudo echo
-$ make boot_files BOARDS=TE0802
-$ mkdir ccahe
-$ make images BOARDS=TE0802 PREBUILT=./prebuilt/bionic.aarch64.2.3.img
-$ ls ./output/
+- $ sudo echo
+- $ make boot_files BOARDS=TE0802
+- $ mkdir ccahe
+- $ make images BOARDS=TE0802 PREBUILT=./prebuilt/bionic.aarch64.2.3.img
+- $ ls ./output/
