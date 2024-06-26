@@ -8,7 +8,6 @@ TVM works on the Pynq Driver. Since there is no Operating System for the TE0802 
   <img align="left" width="50%" src="https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/3d4663f8-d005-4819-b758-57084f5d0e54">
 </div>
 
-![720x400-WHY-pic-2](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/3d4663f8-d005-4819-b758-57084f5d0e54)
 - 1Gb DDR memory for future projects
 - Multiple peripherals
 - Cost around 335€
