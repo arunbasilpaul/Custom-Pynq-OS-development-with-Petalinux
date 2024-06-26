@@ -4,6 +4,10 @@
 TVM works on the Pynq Driver. Since there is no Operating System for the TE0802 board, an Operating System has to be created from scratch with the source files from Trenz Electronics based on a Pynq Linux driver.
 
 ## Why TE0802 Zynq Ultrascale+ Board?:
+<div>
+  <img align="left" width="50%" src="https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/3d4663f8-d005-4819-b758-57084f5d0e54">
+</div>
+
 ![720x400-WHY-pic-2](https://github.com/arunbasilpaul/Custom-Pynq-OS-develpment-with-Petalinux/assets/171144888/3d4663f8-d005-4819-b758-57084f5d0e54)
 - 1Gb DDR memory for future projects
 - Multiple peripherals
