@@ -26,7 +26,7 @@ Project Instructor :
 - PetaLinux 2019.2 (It is better to have the same version as Vivado)
 - TVM
 - Python with Anaconda 3.8
-- Balena Etcher (To format the SD crad and clone the new OS)
+- Balena Etcher (To format the SD card and clone the new OS)
 
 ## Design Flow:
 The steps involved are dependent on the previous step and provide insights or and source files for the next step:
