@@ -1,4 +1,4 @@
-# Custom-Pynq-OS-develpment-with-Petalinux
+# Custom-Pynq-OS-development-with-Petalinux
 | T | A | S | K | : The project is to run the TVM deploy_classification.py inference on the custom development board: TE0802 Zynq Ultrascale+ developed by Trenz Electronics
 
 TVM works on the Pynq Driver. Since there is no Operating System for the TE0802 board, an Operating System has to be created from scratch with the source files from Trenz Electronics based on a Pynq Linux driver.
